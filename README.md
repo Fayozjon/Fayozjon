@@ -8,7 +8,6 @@
 * ⚡ Fun fact: I love to play games on free time
 
 ### Connect with me:
-
 [<img align="left" alt="fb.uz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
 [<img align="left" alt="CybernatiC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="CybernatiC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
