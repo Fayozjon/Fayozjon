@@ -1,10 +1,11 @@
-### Hi there, I'm Fayozjon Berdiev - aka [CybernatiC][website] 👋
+### Hi there, I'm Fayozjon Berdiev - aka [CybernatiC] [website] 👋
 
 ## I'm a Husband, Developer, and Startuper!
-- 🔭 I’m currently working on a [iExpressPrime][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators 
-- ⚡ Fun fact: I love to play games on free time
+
+* 🔭 I’m currently working on a [iExpressPrime][website]!
+* 🌱 I’m currently learning everything 🤣
+* 👯 I’m looking to collaborate with other content creators 
+* ⚡ Fun fact: I love to play games on free time
 
 ### Connect with me:
 
@@ -39,13 +40,9 @@
 ---
 
 ### 📺 Latest YouTube Videos about Ionic from Simon Grimm
-<!-- YOUTUBE:START -->
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
-- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
-<!-- YOUTUBE:END -->
+
+<!-- YOUTUBE: START --> 
+<!-- YOUTUBE: END -->
  
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
