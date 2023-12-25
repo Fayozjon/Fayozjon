@@ -2,7 +2,6 @@
 
 ## I'm a Husband, Developer, and Startuper!
 
-* 🔭 I’m currently working on a [iExpressPrime][iexpress]!
 * 🌱 I’m currently learning everything 🤣
 * 👯 I’m looking to collaborate with other content creators 
 * ⚡ Fun fact: I love to play games on free time
